@@ -1,0 +1,2 @@
+Ahoj, tohle je k zapisu do souboru.Hello there, appended this line.
+Hello there, appended this line.
